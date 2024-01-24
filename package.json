@@ -12,5 +12,19 @@
     "method-override": "^3.0.0",
     "mongoose": "^8.1.0",
     "nodemon": "^3.0.3"
-  }
+  },
+  "name": "blog-web",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "commonjs",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "app.js",
+    "dev": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
